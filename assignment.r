@@ -55,6 +55,7 @@
 
 # Write your `grades` dataframe to a new .csv file inside your data/ directory
 # with the filename `grades.csv`. Make sure *not* to write row names.
+# (you'll need to create the `data/` directory, which you can do outside of R)
 
 
 
