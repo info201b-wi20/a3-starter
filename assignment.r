@@ -18,7 +18,7 @@
 # the number 100
 
 
-# Create a vector `spanish` that holds 1000 random values in it
+# Create a vector `spanish_grades` that holds 1000 random values in it
 # (these represent grades in a spanish course)
 # These values should be normally distributed with a mean of 85 and a
 # standard deviation of 12
@@ -29,7 +29,7 @@
 
 
 # Create a data.frame variable `grades` by combining
-# the vectors `first_names`, `math_grades`, and `spanish_grades`
+# the vectors `students`, `math_grades`, and `spanish_grades`
 # Make sure to properly handle strings
 
 
