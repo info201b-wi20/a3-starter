@@ -76,11 +76,11 @@
 # It's important to understand the _meaning_ of each column before analyzing it
 # Using comments below, describe what information is stored in each column
 # For categorical variables, list all possible values
-# Class: 
-# Sex: 
-# Age: 
-# Survived: 
-# Freq: 
+# Class:
+# Sex:
+# Age:
+# Survived:
+# Freq:
 
 
 
