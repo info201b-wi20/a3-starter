@@ -2,6 +2,10 @@
 
 # Before you get started, set your working directory using the Session menu
 
+# Delete all variables in your workspace.
+# This will make it easier to test your script.
+rm(list = ls())
+
 ###################### Data Frame Manipulation (24 POINTS) #####################
 
 # Create a vector `students` holding 1,000 values representing students
@@ -202,4 +206,3 @@
 # Write your `life_exp` data.frame to a new .csv file to your
 # data/ directory with the filename `life_exp_with_change.csv`.
 # Make sure not to write row names.
-
