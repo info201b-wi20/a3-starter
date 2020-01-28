@@ -16,6 +16,8 @@ rm(list = ls())
 # (these represent grades in a math course)
 # These values should be normally distributed with a mean of 88 and a
 # standard deviation of 10
+# Hint: Try googling "r generate random numbers normal distribution"
+# and try to at least find the name of functions you can google.
 
 
 # Replace any values in the `math_grades vector` that are above 100 with
@@ -46,7 +48,7 @@ rm(list = ls())
 
 
 # Add a new column `grade_diff` to your dataframe, which is equal to
-# `students$math_grades` minus `students$spanish_grades`
+# `grades$math_grades` minus `grades$spanish_grades`
 
 
 # Add another column `better_at_math` as a boolean (TRUE/FALSE) variable that
